@@ -1,0 +1,12 @@
+body {
+    background-color: var(--light-grayish-cyan-a);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 32px;
+  }
+  
+  .main > img {
+    display: block;
+    margin: 0 auto 32px auto;
+  }
